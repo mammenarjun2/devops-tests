@@ -1,5 +1,5 @@
 # Test steps:
-- Clone repo 
+- clone repo 
 - cd into docker folder & then install docker image locally
 - docker build -t perl-hash-test .
 - docker run -d perl-hash-test sleep infinity # keep the process running
